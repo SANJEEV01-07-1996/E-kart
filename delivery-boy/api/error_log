@@ -1,0 +1,200 @@
+[24-Jun-2020 07:27:45 America/Boise] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[24-Jun-2020 07:27:45 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[24-Jun-2020 07:27:45 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[24-Jun-2020 07:27:45 America/Boise] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[24-Jun-2020 07:28:39 America/Boise] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[24-Jun-2020 07:28:39 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[24-Jun-2020 07:28:39 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[24-Jun-2020 07:28:39 America/Boise] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[24-Jun-2020 23:50:49 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:215
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 215
+[24-Jun-2020 23:51:23 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:215
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 215
+[24-Jun-2020 23:53:38 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:226
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 226
+[24-Jun-2020 23:55:08 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:219
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 219
+[24-Jun-2020 23:55:54 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:220
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 220
+[24-Jun-2020 23:56:19 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:220
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 220
+[24-Jun-2020 23:57:11 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:220
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 220
+[24-Jun-2020 23:59:17 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:02:02 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:03:04 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:04:55 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:05:22 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:06:27 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:221
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 221
+[25-Jun-2020 00:07:24 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:222
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 222
+[25-Jun-2020 00:08:54 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:222
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 222
+[25-Jun-2020 00:10:01 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:222
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 222
+[25-Jun-2020 00:10:49 America/Boise] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php:222
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 222
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 191
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 201
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 204
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 210
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 214
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 228
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 231
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 234
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 237
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 240
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 240
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 245
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 245
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 247
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 247
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 249
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'user_id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 250
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'name' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 251
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'mobile' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 252
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'delivery_charge' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 253
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 255
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'tax_amount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 256
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'tax_percentage' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 256
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'promo_discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 257
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'wallet_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 258
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 259
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 259
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 260
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'quantity' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 260
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'final_total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 261
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'promo_code' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 262
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 263
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'deliver_by' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 263
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'payment_method' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 264
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'address' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 265
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'delivery_time' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 266
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'wallet_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 268
+[25-Jun-2020 02:19:05 America/Boise] PHP Warning:  Illegal string offset 'date_added' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 269
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 191
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 201
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 204
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 210
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 214
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 228
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 231
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 234
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 237
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 240
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'active_status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 240
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 244
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 245
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 245
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 247
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 247
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 249
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'user_id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 250
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'name' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 251
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'mobile' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 252
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'delivery_charge' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 253
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 255
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'tax_amount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 256
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'tax_percentage' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 256
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'promo_discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 257
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'wallet_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 258
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 259
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'discount' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 259
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 260
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'quantity' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 260
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'final_total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 261
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'promo_code' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 262
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'items' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 263
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'deliver_by' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 263
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'payment_method' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 264
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'address' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 265
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'delivery_time' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 266
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'wallet_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 268
+[25-Jun-2020 02:21:45 America/Boise] PHP Warning:  Illegal string offset 'date_added' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 269
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 343
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 352
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'name' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 353
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'mobile' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 354
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'address' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 355
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'delivery_boy_id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 356
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'opening_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 357
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'closing_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 358
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 359
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'message' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 360
+[25-Jun-2020 03:13:07 America/Boise] PHP Warning:  Illegal string offset 'date_created' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 361
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 343
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 352
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'name' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 353
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'mobile' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 354
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'address' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 355
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'delivery_boy_id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 356
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'opening_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 357
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'closing_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 358
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 359
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'message' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 360
+[25-Jun-2020 03:14:27 America/Boise] PHP Warning:  Illegal string offset 'date_created' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 361
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 331
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 340
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'name' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 341
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'mobile' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 342
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'address' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 343
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'delivery_boy_id' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 344
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'opening_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 345
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'closing_balance' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 346
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'status' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 347
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'message' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 348
+[25-Jun-2020 03:15:43 America/Boise] PHP Warning:  Illegal string offset 'date_created' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 349
+[25-Jun-2020 03:50:56 America/Boise] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 413
+[25-Jun-2020 03:52:10 America/Boise] PHP Parse error:  syntax error, unexpected '*' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 416
+[25-Jun-2020 03:52:49 America/Boise] PHP Parse error:  syntax error, unexpected '*' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 416
+[25-Jun-2020 03:53:38 America/Boise] PHP Parse error:  syntax error, unexpected '*' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 416
+[25-Jun-2020 03:54:38 America/Boise] PHP Parse error:  syntax error, unexpected '*' in /home4/wrteamin/public_html/ekart/delivery-boy/api/api-v1.php on line 416

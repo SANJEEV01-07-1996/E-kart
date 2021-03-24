@@ -1,0 +1,36 @@
+[22-Jun-2020 16:03:17 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/public/db-operation.php on line 508
+[22-Jun-2020 16:03:38 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home4/wrteamin/public_html/ekart/public/db-operation.php on line 508
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home4/wrteamin/public_html/ekart/includes/crud.php on line 37
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 05:14:48 America/Boise] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home4/wrteamin/public_html/ekart/includes/crud.php on line 37
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home4/wrteamin/public_html/ekart/includes/crud.php on line 37
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  Illegal string offset 'value' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 102
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home4/wrteamin/public_html/ekart/includes/crud.php on line 37
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 264
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 68
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 69
+[22-Jun-2020 16:44:48 Asia/Kolkata] PHP Warning:  Database::sql(): Couldn't fetch mysqli in /home4/wrteamin/public_html/ekart/includes/crud.php on line 99
+[25-Jun-2020 17:31:16 Asia/Kolkata] PHP Warning:  Illegal string offset 'permissions' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 401

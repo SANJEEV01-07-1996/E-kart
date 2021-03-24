@@ -1,0 +1,25 @@
+[24-Jun-2020 12:24:29 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wrteamin/public_html/ekart/delivery-boy/orders.php:28) in /home4/wrteamin/public_html/ekart/delivery-boy/header.php on line 2
+[25-Jun-2020 12:41:20 Asia/Kolkata] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 96
+[25-Jun-2020 12:41:20 Asia/Kolkata] PHP Warning:  Illegal string offset 'balance' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 115
+[25-Jun-2020 12:41:20 Asia/Kolkata] PHP Warning:  Illegal string offset 'bonus' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 125
+[25-Jun-2020 04:00:17 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wrteamin/public_html/ekart/delivery-boy/delivery-boy-profile.php:26) in /home4/wrteamin/public_html/ekart/delivery-boy/header.php on line 2
+[25-Jun-2020 05:03:12 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/wrteamin/public_html/ekart/delivery-boy/orders.php:28) in /home4/wrteamin/public_html/ekart/delivery-boy/header.php on line 2
+[25-Jun-2020 18:03:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 96
+[25-Jun-2020 18:03:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'balance' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 115
+[25-Jun-2020 18:03:28 Asia/Jakarta] PHP Warning:  Illegal string offset 'bonus' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 125
+[25-Jun-2020 18:22:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'total' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 96
+[25-Jun-2020 18:22:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'balance' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 115
+[25-Jun-2020 18:22:06 Asia/Jakarta] PHP Warning:  Illegal string offset 'bonus' in /home4/wrteamin/public_html/ekart/includes/custom-functions.php on line 125
+[25-Jun-2020 18:52:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function rows_count() on null in /home4/wrteamin/public_html/ekart/delivery-boy/home.php:50
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/home.php on line 50
+[25-Jun-2020 18:52:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function rows_count() on null in /home4/wrteamin/public_html/ekart/delivery-boy/home.php:49
+Stack trace:
+#0 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/home.php on line 49
+[25-Jun-2020 06:03:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'custom_functions' not found in /home4/wrteamin/public_html/ekart/delivery-boy/header.php:12
+Stack trace:
+#0 /home4/wrteamin/public_html/ekart/delivery-boy/orders.php(30): include()
+#1 {main}
+  thrown in /home4/wrteamin/public_html/ekart/delivery-boy/header.php on line 12

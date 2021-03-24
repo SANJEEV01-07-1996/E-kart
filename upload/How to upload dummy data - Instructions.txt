@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------
+How to upload dummy data to your eKart App? [ Instructions ]
+---------------------------------------------------------------------------------
+Follow these simple steps to populate dummy data to your eKart Application's Server
+
+[ Note : upload dummy data only after complete installation of admin panel on your server
+		and database installation on your phpmyadmin panel ]
+
+Step 1 : Find "dummy_data.zip" file from the downloaded package. and Extra that folder 
+		either to your local computer or server.
+
+Step 2 : You will see three files there :
+		i. How to upload dummy data - Instructions.txt 	| [ Help ]
+		ii. ekart - data snapshot.sql 					| [ database file ]
+		iii. upload - data snapshot.zip 				| [ Assets / Images for Dummy Sliders, Products, categories etc., ]
+		
+Step 3 : Delete the default /upload folder in your root directory of the admin folder 
+
+Step 4 : Now. Upload and Extract this "upload - data snapshot.zip" file into you root folder where
+		you just deleted your old default "upload" folder.
+		
+Step 5 : Now Let's move to "phpmyadmin" and open your database for the database entry of the dummy Products, Categories, Sliders & more. 
+
+Step 6 : After opening your eKart database select these tables and drop (delete) these tables.
+		i. category
+		ii. offers
+		iii. products
+		iv. product_variant
+		v. sections
+		vi. slider
+		vii. time_slots
+		viii. unit
+		
+Step 7 : Now import the "ekart - data snapshot.sql" file into your existing eKart database for dummy products datab.
+
+	That's all! Now you are all set with your newly setup app with dummy nice looking data.
+	
+	Thank you All the Best for your business!

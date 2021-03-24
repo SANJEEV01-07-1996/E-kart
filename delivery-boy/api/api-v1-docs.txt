@@ -1,0 +1,55 @@
+API URL -->> 
+	https://ekart.wrteam.in/delivery-boy/api/api-v1.php
+
+----------------------------------------------------------
+APIs list 
+----------------------------------------------------------
+1. login
+2. get_delivery_boy_by_id 
+3.
+4.get_orders_by_delivery_boy_id
+5.
+6. get_fund_transfers
+
+
+
+
+
+------------------------------------------
+What parameters to be Passed?  See here >>
+------------------------------------------
+
+Use POST method to pass the parameters
+
+1. Login
+	accesskey:90336
+    mobile:9876543210
+    password:12345678
+
+2. get_delivery_boy_by_id
+	accesskey:90336
+    id:78
+    
+4.get_orders_by_delivery_boy_id
+    accesskey:90336
+        id:82        // {optional}          
+        order_id:345        // {optional}  
+        offset:0        // {optional}
+        limit:10        // {optional}
+        
+        sort:id / user_id           // {optional}
+        order:DESC / ASC            // {optional}
+        
+        search:search_value         // {optional}
+        filter_order:filter_order_status         // {optional} 
+
+6. get_fund_transfers
+    accesskey:90336
+    id:40
+    offset:0        // {optional}
+    limit:10        // {optional}
+    
+    sort:id / user_id           // {optional}
+    order:DESC / ASC            // {optional}
+    
+    search:search_value            // {optional}
